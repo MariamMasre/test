@@ -1,6 +1,6 @@
 
 ![meme1](https://avatars.githubusercontent.com/u/109732896?v=4)
-## **Who i am ?**
+## **Who I am ?**
 -----------------
 #### *Hi My name is Mariam Masri, I am 22 years old, and one of my skills is to learn new technology and develop my skills. I strive to be a global programmer*     
 
