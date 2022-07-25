@@ -3,11 +3,10 @@
 ## **Who i am ?**
 -----------------
 #### *Hi My name is Mariam Masri, I am 22 years old, and one of my skills is to learn new technology and develop my skills. I strive to be a global programmer*     
- 
+
 ### Learn the fundamentals of a good developer mindset in 15 minutes
 
-#####The desire to succeed may be part of our innate genes. Success will make people happy, and everyone strives for happiness. When we are happy, the chemicals in our brain explode into positive emotions, inspiring us to achieve greater success.
-
+##### The desire to succeed may be part of our innate genes. Success will make people happy, and everyone strives for happiness. When we are happy, the chemicals in our brain explode into positive emotions, inspiring us to achieve greater success.
 A successful career usually refers to the launch of a high-quality, recognized business within a specified time. This is no different for IT developers. Successful developers can write high quality code within the estimated scope and satisfy stakeholders by releasing great products.
 
 To be honest, if you google "Good Habits of Programmers" there will be a lot of articles that look similar in your eyes.
