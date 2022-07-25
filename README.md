@@ -15,3 +15,4 @@
 3. Planning before you start coding
 ![meme1](https://arabicprogrammer.com/images/380/6091516daea16e155f694ecea8e3ebf4.JPEG)
 ##### ***“Most real programmers do programming not because they expect money from their work or to seek recognition from others. But because they enjoy their work.”***
+# --- ***The End*** ---
